@@ -1,4 +1,4 @@
-code-sample-pagamentos-recorrentes
-==================================
+Code sample PHP
+===============
 
-Code samples utilizados no Guia de integração com a API de pagamentos recorrentes PayPal 
+[Guia de integração com a API de pagamentos recorrentes PayPal](https://www.paypal-brasil.com.br/desenvolvedores/tutorial/integracao-com-a-api-de-pagamentos-recorrentes-paypal/)
