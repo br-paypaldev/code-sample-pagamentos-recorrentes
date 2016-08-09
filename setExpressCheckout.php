@@ -23,8 +23,7 @@ curl_setopt($curl, CURLOPT_POSTFIELDS, http_build_query(array(
     'L_PAYMENTREQUEST_0_DESC0' => 'Assinatura de exemplo',
     'L_PAYMENTREQUEST_0_QTY0' => 1,
     'L_PAYMENTREQUEST_0_AMT0' => 100,
-    'L_PAYMENTREQUEST_0_ITEMCATEGORY0' => 'Digital',
- 
+
     'L_BILLINGTYPE0' => 'RecurringPayments',
     'L_BILLINGAGREEMENTDESCRIPTION0' => 'Exemplo',
  
